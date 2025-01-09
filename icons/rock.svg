@@ -7,7 +7,7 @@
       }
 
       .cls-2 {
-        fill: #a9a481;
+        fill: hsl(52.17deg 22.33% 59.61%);
       }
     </style>
   </defs>
